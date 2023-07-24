@@ -1,6 +1,12 @@
 # Modelo de Site com Ótimo Design para Sua Empresa
 
-![Logo do Projeto](https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_1280.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(40).png" width="400" height="auto" alt="Descrição da imagem 1">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(41).png" width="400" height="auto" alt="Descrição da imagem 2">
+   <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(42).png" width="400" height="auto" alt="Descrição da imagem 2">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(43).png" width="400" height="auto" alt="Descrição da imagem 2">
+</p>
+
 
 Se você está em busca de um site moderno e atraente para impulsionar a presença online da sua empresa, este projeto é a escolha certa! O Modelo de Site com Ótimo Design oferece uma solução completa para divulgar o seu negócio, compartilhar opiniões dos clientes sobre os seus produtos ou serviços e ainda conta com uma elegante galeria para exibir imagens dos seus produtos.
 
@@ -19,8 +25,9 @@ Se você está em busca de um site moderno e atraente para impulsionar a presen�
 - **Facilidade de Personalização**: O código é limpo e bem organizado, permitindo personalizações fáceis e rápidas para adequar o site às necessidades específicas da sua empresa.
 
 ## Como Utilizar:
-
-1. Faça o download dos arquivos do projeto ou clone este repositório para a sua conta.
+```
+git clone https://github.com/DevJoaoPeu/IT-SOLUTIONS
+````
 
 2. Personalize o conteúdo do site de acordo com as informações da sua empresa.
 
@@ -28,13 +35,6 @@ Se você está em busca de um site moderno e atraente para impulsionar a presen�
 
 4. Aproveite o aumento da visibilidade online e atraia mais clientes para o seu negócio!
 
-## Pré-visualização:
-
-![Pré-visualização do Site](https://exemplo.com/previa-site.png)
-
-Este é apenas um modelo básico, e você pode adicionar mais funcionalidades conforme as necessidades da sua empresa. Fique à vontade para explorar e adaptar o projeto para atender aos seus objetivos específicos.
-
-Não perca tempo e impulsione a presença digital da sua empresa com este Modelo de Site com Ótimo Design. Compartilhe os seus produtos e serviços com o mundo de forma profissional e impactante.
 
 ## Licença:
 

@@ -1,6 +1,6 @@
 # Modelo de Site com Ótimo Design para Sua Empresa
 
-![Imagem do Site]([https://github.com/DevJoaoPeu/IT-SOLUTIONS/blob/master/src/assets/google.png])
+![Logo do Projeto](https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_1280.jpg)
 
 Se você está em busca de um site moderno e atraente para impulsionar a presença online da sua empresa, este projeto é a escolha certa! O Modelo de Site com Ótimo Design oferece uma solução completa para divulgar o seu negócio, compartilhar opiniões dos clientes sobre os seus produtos ou serviços e ainda conta com uma elegante galeria para exibir imagens dos seus produtos.
 

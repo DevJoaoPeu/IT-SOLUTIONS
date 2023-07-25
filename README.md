@@ -1,4 +1,4 @@
-# Modelo de Site com Ótimo Design para Sua Empresa
+# IT-SOLUTIONS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(40).png" width="400" height="auto" alt="Descrição da imagem 1">

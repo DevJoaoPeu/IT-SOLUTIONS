@@ -7,6 +7,7 @@
   <img src="https://raw.githubusercontent.com/DevJoaoPeu/IT-SOLUTIONS/master/src/assets/Captura%20de%20Tela%20(43).png" width="400" height="auto" alt="Descrição da imagem 2">
 </p>
 
+<h3><a href="https://64bf55d0fbb98c22159ca51c--snazzy-pithivier-804b03.netlify.app/">Link da aplicação.</a></h3>
 
 Se você está em busca de um site moderno e atraente para impulsionar a presença online da sua empresa, este projeto é a escolha certa! O Modelo de Site com Ótimo Design oferece uma solução completa para divulgar o seu negócio, compartilhar opiniões dos clientes sobre os seus produtos ou serviços e ainda conta com uma elegante galeria para exibir imagens dos seus produtos.
 
